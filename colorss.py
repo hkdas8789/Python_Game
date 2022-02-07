@@ -1,0 +1,17 @@
+
+if True:
+    white=(255,255,255)
+    green=(0,255,0)
+    red=(255,0,0)
+    black=(0,0,0)
+    blue=(0,0,255)
+    light_blue=(0,255,255)
+    light_green=(51,255,153)
+    gray=(192,192,192)
+    purple=(102,0,204)
+    light_purple=(153,51,255)
+    skeen_color=(255,204,204)
+    yellow=(255,255,0)
+    light_yellow=(255,255,102)
+    pink=(255,0,255)
+    light_pink=(255,102,255)
